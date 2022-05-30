@@ -1,0 +1,10 @@
+{
+	"files": {
+		"README.md": "ed7296c7c50fb0ad36695223cbf52a8eb60920cdfec43b3bfaa70dc9688ebc4f",
+		"config_generator.js": "efed2dc19676194bf36fc173c3d80142f61576302c01549430767b31925847de",
+		"index.js": "87df4463ee67674c6ef4d4f521fdea0d0ca074fa356373dc78ece61a686acdb5",
+		"module.json": "5df7c4dd7d314816156cf1f04243625f0348cb9356257e522dfc9ba7a81c43ad",
+		"res/C_SAVE_CLIENT_CHAT_OPTION_SETTING.def": "bc231c2e1a40451ddd52bd0fe5355e71851f9b1c4f1d82403752e8e6bdf3a240",
+		"res/S_REPLY_CLIENT_CHAT_OPTION_SETTING.def": "efe929507f3cc4c611624dbebe147be0a6d0b466f6e723933fffe5b94c3487d4"
+	}
+}

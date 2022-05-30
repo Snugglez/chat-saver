@@ -1,2 +1,5 @@
 # chat-saver
-tera chat saver to prevent chat settings resetting and emulate everything client side
+
+Saves your chat settings with `/8 chat`
+
+Once you have saved chat settings, the mod will take over and remove any interactions between server and client keeping your chat settings entirely local

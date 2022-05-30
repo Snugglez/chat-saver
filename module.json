@@ -1,0 +1,16 @@
+{
+	"disableAutoUpdate": false,
+	"name": "chat-saver",
+	"author": "Snug",
+	"description": "Saves chat settings on command",
+	"version": "1",
+	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
+	"options": {
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "config_generator.js"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/chat-saver/main/"
+	]
+}
